@@ -1,12 +1,11 @@
-export const MenuItems = [
-    {
+export const MenuItems = [    {
         title : 'Committee members',
         url : '#',
         cName : 'nav-links'
     },
     {
         title : 'Add members',
-        url : '#',
+        url : '/Add',
         cName : 'nav-links'
     },
     {
@@ -21,7 +20,7 @@ export const MenuItems = [
     },
     {
         title : 'Update profile',
-        url : '#',
+        url : '/EditForm',
         cName : 'nav-links'
     }
 ]
