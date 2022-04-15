@@ -1,0 +1,60 @@
+form {
+    margin-left: 450px;
+    margin-top: 150px;
+    font-size: larger;
+}
+
+.loc {
+    width: 485px;
+    border: 2px solid blue;
+}
+
+select {
+    width: 400px;
+    margin-left: 17px;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid blue;
+}
+
+span {
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.form_grp {
+    margin-bottom: 30px;
+    width: 500px;
+}
+
+.grn {
+    margin-left: 25px;
+}
+.grn:hover {
+    background-color: green;
+    color: white;
+}
+
+.rd{
+    margin-left: 25px;
+}
+.rd:hover {
+    background-color: red;
+    color: white;
+}
+
+.pick {
+    width: 485px;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid blue;
+}
+
+.subbt {
+    margin-left: 105px;
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+}

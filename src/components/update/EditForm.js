@@ -1,11 +1,13 @@
 import React, { Component} from 'react';
 import { Form, Button } from "react-bootstrap"
 import './EditForm.css'
+import Navbar from '../Navbar/Navbar.js';
 
 class EditForm extends Component{
     render(){
     return(
-
+        <>
+        <Navbar />
         <Form>
         <Form.Group>
             <Form.Control
@@ -45,6 +47,7 @@ class EditForm extends Component{
             Edit Employee
         </Button>
     </Form>
+    </>
     )
 }
 

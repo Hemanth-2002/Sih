@@ -10,7 +10,7 @@ export const MenuItems = [    {
     },
     {
         title : 'Schedule Meet',
-        url : '#',
+        url : '/schedule',
         cName : 'nav-links'
     },
     {
