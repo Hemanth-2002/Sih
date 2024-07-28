@@ -1,1 +1,1 @@
-# sih
+# Event Booking Platform 
